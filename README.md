@@ -25,5 +25,5 @@ Example outputs
 
 
     print(comments[0])
-    {'text': u'You like Anime!!??', 'num_likes': u'36852', 'user': u'johnnydork', 'num_comments': u'494', 
-     'time_stamp': u'6:17 PM - 28 Jun 2019', 'num_retweets': u'5964', 'type': u'1144776977464696833', 'id': u'1144777747195191296'}
+    {'text': u'You like Anime!!??', 'num_likes': u'2', 'user': u'johnnydork', 'num_comments': u'0', 
+     'time_stamp': u'6:17 PM - 28 Jun 2019', 'num_retweets': u'1', 'type': u'1144776977464696833', 'id': u'1144777747195191296'}
